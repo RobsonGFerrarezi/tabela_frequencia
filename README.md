@@ -62,11 +62,15 @@ Para processar ficheiros no formato JSON, o sistema espera uma estrutura de list
 
 ---
 
-## 👤 Autor
+## 👤 Autores
 
 **Robson Guilherme Ferrarezi**
 * **Profissão**: Estudante de Engenharia de Computação
 * **Localização**: São Bernardo do Campo, SP, Brasil
 * **Contexto**: Este projeto foi desenvolvido como parte integrante das atividades práticas de Estatística.
 
+**Kauê dos Santos Andrade**
+* **Profissão**: Estudante de Engenharia de Computação
+* **Localização**: Diadema, SP, Brasil
+* **Contexto**: Este projeto foi desenvolvido como parte integrante das atividades práticas de Estatística.
 ---
